@@ -1,4 +1,4 @@
-<a href="#" style="width : 88vw; display : flex; justify-content : center; align-items : center"><img width="50%" height="auto" src="./goku.jpg" height="175px"/></a>
+<p align="center""><img width="50%" height="auto" src="./goku.jpg" height="175px"/></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gourav</h1>
 <h3 align="center">I'm a Full Stack Web Dev</h3>
