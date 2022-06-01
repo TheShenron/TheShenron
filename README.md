@@ -66,20 +66,20 @@
 <br/>
 <br/>
 
-<a href="https://github.com/TheShenron/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TheShenron&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/TheShenron/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=TheShenron&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
 
 ## Connect with me:
-<p align="left">
+<!-- <p align="left">
 
 <a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = ""><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
-</p>
+</p> -->
 
 ## ❤ Views and Followers
 <a href="https://github.com/TheShenron/github-profile-views-counter">
