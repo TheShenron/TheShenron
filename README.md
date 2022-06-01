@@ -1,4 +1,4 @@
-<p align="left""><img width="50%" src="./goku.jpg" height="175px"/></p>
+<p align="left""><img width="50%" src="./goku.jpg" height="275px"/></p>
 
 <h1 align="center">Hi I'm Gourav</h1>
 <h3 align="center">I'm a Full Stack MERN Dev</h3>
