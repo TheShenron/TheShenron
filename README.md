@@ -1,4 +1,4 @@
-<p align="left""><img width="50%" src="./g.jpg" height="275px"/></p>
+<p align="left""><img width="50%" src="./g.jpg" height="375px"/></p>
 
 <h1 align="center">Hi I'm Gourav</h1>
 
