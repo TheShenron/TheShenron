@@ -4,8 +4,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 working on **[ Freelancing Project](https://www.freelancer.com/u/claverprogrammer)**
-
 - 🌱 I’m currently learning **MERN Stack Dev.**
 
 - 👯 I’m looking to collaborate on **[ Freelancer](https://www.freelancer.com/u/claverprogrammer)**
