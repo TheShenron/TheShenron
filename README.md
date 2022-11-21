@@ -6,7 +6,7 @@
                   
 <p> Self-motivated and hardworking fresher seeking for an opportunity to work in a challenging environment to prove my skills and utilize my knowledge & intelligence in the growth of the organization.
 
-My specialties include quickly learning new skills and programming languages, problem-solving, responsive design principles, and website optimization, So far I have <b>JavaScript,</b> TypeScript, HTML, CSS, React js, Nodejs, Expressjs, MongoDB, and Git/GitHub under my belt.
+My specialties include quickly learning new skills and programming languages, problem-solving, responsive design principles, and website optimization, So far I have <b>JavaScript,</b> <b>TypeScript,</b> <b>HTML,</b> <b>CSS,</b> <b>React js,</b> <b>Nodejs,</b> <b>Expressjs,</b> <b>MongoDB,</b> and <b>Git/GitHub</b> under my belt.
 </p>
 
 - 🌱 I’m currently learning **MERN Stack Dev.**
