@@ -43,7 +43,7 @@ My specialties include quickly learning new skills and programming languages, pr
 <a href="https://rsgm .js.org" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> </a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
-
+</br>
 
 ## 📊 My Github Stats
 ![](https://github-profile-trophy.vercel.app/?username=theshenron&theme=radical&no-frame=false&no-bg=true&margin-w=4)
