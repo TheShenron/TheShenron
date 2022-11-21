@@ -46,7 +46,7 @@ My specialties include quickly learning new skills and programming languages, pr
 </br>
 
 ## 📊 My Github Stats
-![](https://github-profile-trophy.vercel.app/?username=theshenrn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=theshenron&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <br/>
 
