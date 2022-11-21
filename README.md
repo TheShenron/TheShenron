@@ -48,6 +48,7 @@ My specialties include quickly learning new skills and programming languages, pr
 
   <a href="https://github.com/TheShenron/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShenron&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+  ![](https://github-profile-trophy.vercel.app/?username=theshenron&theme=radical&no-frame=false&no-bg=true&margin-w=4)
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
