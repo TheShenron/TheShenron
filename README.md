@@ -22,13 +22,13 @@ My specialties include quickly learning new skills and programming languages, pr
           
  </br>
 <p align="left">
-<a href="https://twitter.com/param raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="param raj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/param raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="param raj" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/claverprogrammer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="param raj" height="30" width="40" /></a>
 <a href="https://codesandbox.com/pr6587424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pr6587424" height="30" width="40" /></a>
 <a href="https://fb.com/param raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="param raj" height="30" width="40" /></a>
 <a href="https://instagram.com/param_raj_424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="param_raj_424" height="30" width="40" /></a>
 </p>
 
+</br>
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
