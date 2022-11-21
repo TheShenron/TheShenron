@@ -1,4 +1,4 @@
-<p align="left""><img width="45%" src="./goku.jpg" height="260px"/></p>
+<!-- <p align="left""><img width="45%" src="./goku.jpg" height="260px"/></p> -->
 
 <h1 align="center">Hi 👋 I'm Gourav</h1>
 
