@@ -45,7 +45,7 @@ My specialties include quickly learning new skills and programming languages, pr
 
   ![stats](https://github-readme-stats.vercel.app/api?username=TheShenron&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
   ![trophy](https://github-profile-trophy.vercel.app/?username=TheHamkerCat&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
-  !(https://github-profile-trophy.vercel.app/?username=theshenron&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=theshenron&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 <br/>
