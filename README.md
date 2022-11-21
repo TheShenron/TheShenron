@@ -45,11 +45,7 @@ My specialties include quickly learning new skills and programming languages, pr
 
   ![stats](https://github-readme-stats.vercel.app/api?username=TheShenron&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
   ![trophy](https://github-profile-trophy.vercel.app/?username=TheHamkerCat&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
-
-  <a href="https://github.com/TheShenron/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShenron&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  ![](https://github-profile-trophy.vercel.app/?username=theshenron&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  !(https://github-profile-trophy.vercel.app/?username=theshenron&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 <br/>
